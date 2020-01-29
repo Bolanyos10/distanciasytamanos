@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+}
+
+p.ciento{
+    font-size: 200%;
+}
+
+p.cien{
+    font-size: 100%;
+}
+
+p.cientocincuenta{
+    font-size: 150%;
+}
+
+p.cincuenta{
+    font-size: 50%;
+}
+
+p.prueba{
+    font-size: 135%;
+}
+
+
+div.prueba{
+    border: black 1px solid;
+    font-size: 160%;   
+}
+
+p.borde-em {
+    border: red 1em solid;
+    font-family: serif;
+  }
+  
+  p.borde-ex {
+    border: green 1em solid;
+    font-family: sans-serif;
+  }
+  
+  p.borde-ch {
+    border: blue 1em solid;
+    font-family: 'Courier New', Courier, monospace;
+  }
